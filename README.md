@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Shortly website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Shortly](https://shortly.zeroff.tech)
 
 ## Available Scripts
 
